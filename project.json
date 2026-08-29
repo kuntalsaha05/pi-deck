@@ -1,0 +1,23 @@
+{
+  "overview": "A Raspberry Pi StreamDeck alternative with a full Android Auto-inspired widget dashboard. Features a touch-optimized layout at 1024×600 with a status bar, large icon-grid buttons, bottom navigation bar, and dark theme — designed for use on a Raspberry Pi touchscreen.",
+  "features": [
+    "Android Auto widget grid layout",
+    "Touch-optimized large buttons (76dp+ targets)",
+    "Status bar with time and system indicators",
+    "Persistent bottom navigation bar",
+    "Dark theme with proper contrast",
+    "Action-ready button placeholders",
+    "Smooth press animations and tap feedback",
+    "Responsive 4-column grid for 1024x600"
+  ],
+  "category": "productivity",
+  "tags": [
+    "streamdeck",
+    "raspberry-pi",
+    "android-auto",
+    "dashboard",
+    "touch-ui",
+    "productivity"
+  ],
+  "last_updated": "2026-04-18T21:11:39.584Z"
+}
